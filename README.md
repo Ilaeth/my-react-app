@@ -14,6 +14,7 @@
 Project made for mark.
 
 ## Technologies
+* Visual Studio Code 1.71.1
 * JavaScript
 * React
 
